@@ -7,6 +7,10 @@ sites:
     url: $WEDDINGHTTP
   - name: Wedding HTTPS
     url: $WEDDINGHTTPS
+  - name: Minted HTTP
+    url: $MINTEDHTTP
+  - name: Minted HTTPS
+    url: $MINTEDHTTPS
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
