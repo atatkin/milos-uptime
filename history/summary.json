@@ -23,24 +23,24 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "wedding-https",
     "status": "up",
-    "uptime": "98.21%",
-    "uptimeDay": "58.09%",
-    "uptimeWeek": "55.07%",
-    "uptimeMonth": "89.66%",
-    "uptimeYear": "98.21%",
+    "uptime": "98.20%",
+    "uptimeDay": "58.88%",
+    "uptimeWeek": "54.65%",
+    "uptimeMonth": "89.56%",
+    "uptimeYear": "98.20%",
     "time": 292,
     "timeDay": 283,
     "timeWeek": 280,
     "timeMonth": 281,
     "timeYear": 292,
     "dailyMinutesDown": {
-      "2021-11-26": 604,
+      "2021-11-26": 593,
       "2021-11-25": 695,
       "2021-11-24": 507,
       "2021-11-23": 773,
       "2021-11-22": 631,
       "2021-11-21": 692,
-      "2021-11-20": 628
+      "2021-11-20": 682
     }
   },
   {
