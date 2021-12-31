@@ -13,7 +13,7 @@
     "time": 381,
     "timeDay": 262,
     "timeWeek": 343,
-    "timeMonth": 355,
+    "timeMonth": 357,
     "timeYear": 381,
     "dailyMinutesDown": {
       "2021-12-15": 30
@@ -26,14 +26,14 @@
     "slug": "wedding-https",
     "status": "up",
     "uptime": "98.43%",
-    "uptimeDay": "56.41%",
-    "uptimeWeek": "55.45%",
+    "uptimeDay": "60.68%",
+    "uptimeWeek": "56.09%",
     "uptimeMonth": "89.19%",
     "uptimeYear": "98.43%",
     "time": 290,
     "timeDay": 273,
     "timeWeek": 280,
-    "timeMonth": 282,
+    "timeMonth": 281,
     "timeYear": 290,
     "dailyMinutesDown": {
       "2021-12-30": 627,
@@ -60,7 +60,7 @@
     "time": 940,
     "timeDay": 1101,
     "timeWeek": 946,
-    "timeMonth": 947,
+    "timeMonth": 943,
     "timeYear": 940,
     "dailyMinutesDown": {
       "2021-11-26": 26,
@@ -91,7 +91,7 @@
     "time": 675,
     "timeDay": 564,
     "timeWeek": 508,
-    "timeMonth": 598,
+    "timeMonth": 597,
     "timeYear": 675,
     "dailyMinutesDown": {
       "2021-12-01": 25,
