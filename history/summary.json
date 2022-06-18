@@ -11,9 +11,9 @@
     "uptimeMonth": "99.44%",
     "uptimeYear": "99.81%",
     "time": 591,
-    "timeDay": 1103,
-    "timeWeek": 1260,
-    "timeMonth": 877,
+    "timeDay": 853,
+    "timeWeek": 1236,
+    "timeMonth": 890,
     "timeYear": 598,
     "dailyMinutesDown": {
       "2022-06-14": 46,
@@ -42,15 +42,15 @@
     "url": "$WEDDINGHTTPS",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "wedding-https",
-    "status": "up",
-    "uptime": "98.99%",
-    "uptimeDay": "62.35%",
+    "status": "down",
+    "uptime": "99.01%",
+    "uptimeDay": "62.44%",
     "uptimeWeek": "50.09%",
-    "uptimeMonth": "87.44%",
-    "uptimeYear": "98.95%",
+    "uptimeMonth": "87.60%",
+    "uptimeYear": "98.97%",
     "time": 379,
-    "timeDay": 846,
-    "timeWeek": 883,
+    "timeDay": 855,
+    "timeWeek": 886,
     "timeMonth": 595,
     "timeYear": 379,
     "dailyMinutesDown": {
@@ -61,7 +61,7 @@
       "2022-06-14": 843,
       "2022-06-13": 838,
       "2022-06-12": 688,
-      "2022-06-11": 483
+      "2022-06-11": 411
     }
   },
   {
@@ -78,7 +78,7 @@
     "time": 1098,
     "timeDay": 361,
     "timeWeek": 661,
-    "timeMonth": 1038,
+    "timeMonth": 1056,
     "timeYear": 1107,
     "dailyMinutesDown": {
       "2022-05-23": 54,
@@ -116,7 +116,7 @@
     "time": 647,
     "timeDay": 83,
     "timeWeek": 139,
-    "timeMonth": 467,
+    "timeMonth": 478,
     "timeYear": 599,
     "dailyMinutesDown": {
       "2022-05-23": 52,
