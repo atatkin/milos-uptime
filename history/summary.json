@@ -43,14 +43,14 @@
     "url": "$WEDDINGHTTPS",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "wedding-https",
-    "status": "up",
-    "uptime": "99.10%",
-    "uptimeDay": "45.82%",
-    "uptimeWeek": "49.67%",
-    "uptimeMonth": "88.42%",
-    "uptimeYear": "99.03%",
+    "status": "down",
+    "uptime": "99.11%",
+    "uptimeDay": "46.41%",
+    "uptimeWeek": "50.35%",
+    "uptimeMonth": "88.57%",
+    "uptimeYear": "99.05%",
     "time": 395,
-    "timeDay": 742,
+    "timeDay": 725,
     "timeWeek": 803,
     "timeMonth": 743,
     "timeYear": 396,
@@ -62,7 +62,7 @@
       "2022-06-26": 582,
       "2022-06-25": 836,
       "2022-06-24": 592,
-      "2022-06-23": 102
+      "2022-06-23": 34
     }
   },
   {
