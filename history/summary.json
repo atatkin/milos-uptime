@@ -52,24 +52,24 @@
     "slug": "wedding-https",
     "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "50.63%",
-    "uptimeWeek": "56.20%",
-    "uptimeMonth": "89.36%",
+    "uptimeDay": "56.86%",
+    "uptimeWeek": "57.37%",
+    "uptimeMonth": "89.32%",
     "uptimeYear": "99.11%",
     "time": 489,
-    "timeDay": 1073,
-    "timeWeek": 1276,
-    "timeMonth": 1286,
+    "timeDay": 999,
+    "timeWeek": 1281,
+    "timeMonth": 1278,
     "timeYear": 491,
     "dailyMinutesDown": {
-      "2022-08-11": 691,
+      "2022-08-11": 679,
       "2022-08-10": 730,
       "2022-08-09": 591,
       "2022-08-08": 435,
       "2022-08-07": 631,
       "2022-08-06": 642,
       "2022-08-05": 663,
-      "2022-08-04": 283
+      "2022-08-04": 311
     }
   },
   {
