@@ -54,14 +54,14 @@
     "url": "$WEDDINGHTTPS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wedding-https",
-    "status": "up",
-    "uptime": "99.24%",
-    "uptimeDay": "42.97%",
-    "uptimeWeek": "49.58%",
-    "uptimeMonth": "87.00%",
-    "uptimeYear": "98.92%",
+    "status": "down",
+    "uptime": "99.25%",
+    "uptimeDay": "44.46%",
+    "uptimeWeek": "49.65%",
+    "uptimeMonth": "87.16%",
+    "uptimeYear": "98.93%",
     "time": 745,
-    "timeDay": 1448,
+    "timeDay": 1483,
     "timeWeek": 1154,
     "timeMonth": 1311,
     "timeYear": 750,
@@ -74,7 +74,7 @@
       "2022-11-01": 630,
       "2022-10-31": 586,
       "2022-10-30": 697,
-      "2022-10-29": 96
+      "2022-10-29": 27
     }
   },
   {
