@@ -58,25 +58,25 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wedding-https",
     "status": "up",
-    "uptime": "99.43%",
-    "uptimeDay": "47.31%",
-    "uptimeWeek": "57.84%",
-    "uptimeMonth": "89.59%",
-    "uptimeYear": "99.13%",
+    "uptime": "99.42%",
+    "uptimeDay": "54.92%",
+    "uptimeWeek": "57.96%",
+    "uptimeMonth": "89.42%",
+    "uptimeYear": "99.12%",
     "time": 822,
     "timeDay": 950,
-    "timeWeek": 924,
+    "timeWeek": 926,
     "timeMonth": 977,
     "timeYear": 827,
     "dailyMinutesDown": {
-      "2022-12-11": 740,
+      "2022-12-11": 728,
       "2022-12-10": 598,
       "2022-12-09": 537,
       "2022-12-08": 636,
       "2022-12-07": 442,
       "2022-12-06": 722,
       "2022-12-05": 572,
-      "2022-12-04": 309
+      "2022-12-04": 395
     }
   },
   {
