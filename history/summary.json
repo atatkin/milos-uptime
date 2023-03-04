@@ -61,11 +61,11 @@
     "url": "$WEDDINGHTTPS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wedding-https",
-    "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "51.84%",
-    "uptimeWeek": "57.34%",
-    "uptimeMonth": "89.78%",
+    "status": "down",
+    "uptime": "99.52%",
+    "uptimeDay": "51.83%",
+    "uptimeWeek": "57.42%",
+    "uptimeMonth": "89.85%",
     "uptimeYear": "99.15%",
     "time": 1002,
     "timeDay": 909,
@@ -80,7 +80,7 @@
       "2023-02-28": 594,
       "2023-02-27": 473,
       "2023-02-26": 644,
-      "2023-02-25": 540
+      "2023-02-25": 509
     }
   },
   {
