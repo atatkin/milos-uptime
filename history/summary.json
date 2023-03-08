@@ -63,23 +63,23 @@
     "slug": "wedding-https",
     "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "44.18%",
-    "uptimeWeek": "54.49%",
-    "uptimeMonth": "89.53%",
-    "uptimeYear": "99.13%",
+    "uptimeDay": "51.01%",
+    "uptimeWeek": "54.35%",
+    "uptimeMonth": "89.49%",
+    "uptimeYear": "99.12%",
     "time": 1007,
     "timeDay": 367,
     "timeWeek": 797,
-    "timeMonth": 862,
+    "timeMonth": 852,
     "timeYear": 1014,
     "dailyMinutesDown": {
-      "2023-03-07": 803,
+      "2023-03-07": 791,
       "2023-03-06": 787,
       "2023-03-05": 673,
       "2023-03-04": 672,
       "2023-03-03": 773,
       "2023-03-02": 615,
-      "2023-03-01": 265
+      "2023-03-01": 292
     }
   },
   {
