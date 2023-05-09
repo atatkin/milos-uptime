@@ -1,7 +1,7 @@
 url: $MINTEDHTTPS
-status: down
-code: 503
-responseTime: 8
-lastUpdated: 2023-05-09T13:29:13.208Z
+status: up
+code: 200
+responseTime: 464
+lastUpdated: 2023-05-09T13:58:13.009Z
 startTime: Fri Jun 04 2021 01:10:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
