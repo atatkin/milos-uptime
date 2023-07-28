@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wedding-http",
     "status": "down",
-    "uptime": "86.25%",
+    "uptime": "86.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "70.76%",
-    "time": 1688,
+    "uptimeYear": "70.49%",
+    "time": 1689,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1770,
+    "timeYear": 1771,
     "dailyMinutesDown": {
-      "2023-07-27": 68,
+      "2023-07-28": 69,
+      "2023-07-27": 1440,
       "2023-07-26": 1440,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
@@ -137,8 +138,7 @@
       "2022-10-04": 92,
       "2022-09-26": 150,
       "2022-09-15": 30,
-      "2022-08-26": 34,
-      "2022-07-28": 54
+      "2022-08-26": 34
     }
   },
   {
@@ -147,18 +147,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wedding-https",
     "status": "down",
-    "uptime": "86.93%",
+    "uptime": "86.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "71.97%",
+    "uptimeYear": "71.70%",
     "time": 991,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 982,
+    "timeYear": 983,
     "dailyMinutesDown": {
-      "2023-07-27": 68,
+      "2023-07-28": 69,
+      "2023-07-27": 1440,
       "2023-07-26": 1440,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
@@ -275,14 +276,14 @@
     "slug": "minted-http",
     "status": "up",
     "uptime": "96.79%",
-    "uptimeDay": "98.90%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "93.47%",
     "time": 1114,
-    "timeDay": 838,
-    "timeWeek": 875,
-    "timeMonth": 1182,
+    "timeDay": 547,
+    "timeWeek": 876,
+    "timeMonth": 1169,
     "timeYear": 1030,
     "dailyMinutesDown": {
       "2023-07-26": 16,
@@ -326,8 +327,7 @@
       "2022-11-20": 16,
       "2022-11-18": 18,
       "2022-11-17": 144,
-      "2022-08-26": 34,
-      "2022-07-28": 54
+      "2022-08-26": 34
     }
   },
   {
@@ -337,14 +337,14 @@
     "slug": "minted-https",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "98.94%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.76%",
     "time": 625,
-    "timeDay": 476,
-    "timeWeek": 596,
-    "timeMonth": 919,
+    "timeDay": 409,
+    "timeWeek": 591,
+    "timeMonth": 915,
     "timeYear": 660,
     "dailyMinutesDown": {
       "2023-07-26": 15,
@@ -365,8 +365,7 @@
       "2022-11-21": 17,
       "2022-11-18": 18,
       "2022-11-17": 144,
-      "2022-08-26": 34,
-      "2022-07-28": 54
+      "2022-08-26": 34
     }
   }
 ]
