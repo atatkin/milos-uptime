@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wedding-http",
     "status": "down",
-    "uptime": "75.12%",
+    "uptime": "75.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "39.05%",
-    "time": 1816,
+    "uptimeYear": "38.78%",
+    "time": 1820,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1872,
+    "timeYear": 1879,
     "dailyMinutesDown": {
-      "2023-11-20": 65,
+      "2023-11-21": 66,
+      "2023-11-20": 1440,
       "2023-11-19": 1440,
       "2023-11-18": 1440,
       "2023-11-17": 1440,
@@ -248,8 +249,7 @@
       "2023-01-03": 20,
       "2022-12-17": 15,
       "2022-12-09": 91,
-      "2022-12-01": 50,
-      "2022-11-21": 17
+      "2022-12-01": 50
     }
   },
   {
@@ -258,18 +258,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wedding-https",
     "status": "down",
-    "uptime": "75.72%",
+    "uptime": "75.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "40.19%",
+    "uptimeYear": "39.91%",
     "time": 756,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 755,
+    "timeYear": 754,
     "dailyMinutesDown": {
-      "2023-11-20": 65,
+      "2023-11-21": 66,
+      "2023-11-20": 1440,
       "2023-11-19": 1440,
       "2023-11-18": 1440,
       "2023-11-17": 1440,
@@ -501,16 +502,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minted-http",
     "status": "up",
-    "uptime": "97.20%",
+    "uptime": "97.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.51%",
-    "time": 1057,
-    "timeDay": 423,
-    "timeWeek": 686,
-    "timeMonth": 787,
-    "timeYear": 1117,
+    "uptimeYear": "93.52%",
+    "time": 1058,
+    "timeDay": 1137,
+    "timeWeek": 770,
+    "timeMonth": 780,
+    "timeYear": 1118,
     "dailyMinutesDown": {
       "2023-07-26": 16,
       "2023-07-18": 21,
@@ -548,8 +549,7 @@
       "2023-02-26": 30,
       "2023-02-10": 89,
       "2023-01-19": 32,
-      "2022-12-01": 25,
-      "2022-11-21": 17
+      "2022-12-01": 25
     }
   },
   {
@@ -563,11 +563,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
-    "time": 658,
-    "timeDay": 412,
-    "timeWeek": 510,
+    "time": 659,
+    "timeDay": 656,
+    "timeWeek": 545,
     "timeMonth": 555,
-    "timeYear": 786,
+    "timeYear": 787,
     "dailyMinutesDown": {
       "2023-07-26": 15,
       "2023-07-18": 20,
@@ -583,8 +583,7 @@
       "2023-02-10": 89,
       "2023-01-19": 32,
       "2023-01-05": 24,
-      "2022-12-01": 25,
-      "2022-11-21": 17
+      "2022-12-01": 25
     }
   }
 ]
