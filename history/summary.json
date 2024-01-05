@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wedding-http",
     "status": "down",
-    "uptime": "71.54%",
+    "uptime": "71.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "26.76%",
-    "time": 1782,
+    "uptimeYear": "26.49%",
+    "time": 1785,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1767,
+    "timeYear": 1777,
     "dailyMinutesDown": {
-      "2024-01-04": 64,
+      "2024-01-05": 65,
+      "2024-01-04": 1440,
       "2024-01-03": 1440,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
@@ -288,8 +289,7 @@
       "2023-03-28": 63,
       "2023-02-26": 16,
       "2023-02-03": 25,
-      "2023-01-18": 34,
-      "2023-01-05": 24
+      "2023-01-18": 34
     }
   },
   {
@@ -298,18 +298,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wedding-https",
     "status": "down",
-    "uptime": "72.11%",
+    "uptime": "72.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "27.86%",
+    "uptimeYear": "27.59%",
     "time": 668,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 655,
+    "timeYear": 650,
     "dailyMinutesDown": {
-      "2024-01-04": 64,
+      "2024-01-05": 65,
+      "2024-01-04": 1440,
       "2024-01-03": 1440,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
@@ -592,9 +593,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.53%",
     "time": 1027,
-    "timeDay": 685,
-    "timeWeek": 741,
-    "timeMonth": 695,
+    "timeDay": 729,
+    "timeWeek": 694,
+    "timeMonth": 697,
     "timeYear": 1123,
     "dailyMinutesDown": {
       "2023-07-26": 16,
@@ -647,10 +648,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 652,
-    "timeDay": 477,
-    "timeWeek": 690,
-    "timeMonth": 616,
-    "timeYear": 798,
+    "timeDay": 556,
+    "timeWeek": 686,
+    "timeMonth": 617,
+    "timeYear": 799,
     "dailyMinutesDown": {
       "2023-07-26": 15,
       "2023-07-18": 20,
@@ -664,8 +665,7 @@
       "2023-03-03": 23,
       "2023-02-26": 30,
       "2023-02-10": 89,
-      "2023-01-19": 32,
-      "2023-01-05": 24
+      "2023-01-19": 32
     }
   }
 ]
