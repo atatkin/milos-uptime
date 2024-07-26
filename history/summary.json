@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wedding-http",
     "status": "down",
-    "uptime": "58.88%",
+    "uptime": "58.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-25": 71,
+      "2024-07-26": 70,
+      "2024-07-25": 1440,
       "2024-07-24": 1440,
       "2024-07-23": 1440,
       "2024-07-22": 1440,
@@ -379,8 +380,7 @@
       "2023-07-31": 1440,
       "2023-07-30": 1440,
       "2023-07-29": 1440,
-      "2023-07-28": 1440,
-      "2023-07-27": 1440
+      "2023-07-28": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wedding-https",
     "status": "down",
-    "uptime": "59.35%",
+    "uptime": "59.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-25": 71,
+      "2024-07-26": 71,
+      "2024-07-25": 1440,
       "2024-07-24": 1440,
       "2024-07-23": 1440,
       "2024-07-22": 1440,
@@ -763,8 +764,7 @@
       "2023-07-31": 1440,
       "2023-07-30": 1440,
       "2023-07-29": 1440,
-      "2023-07-28": 1440,
-      "2023-07-27": 1440
+      "2023-07-28": 1440
     }
   },
   {
@@ -773,16 +773,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minted-http",
     "status": "up",
-    "uptime": "97.75%",
+    "uptime": "97.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.06%",
-    "uptimeMonth": "99.50%",
+    "uptimeMonth": "99.55%",
     "uptimeYear": "99.83%",
     "time": 1124,
-    "timeDay": 337,
-    "timeWeek": 444,
-    "timeMonth": 502,
-    "timeYear": 1095,
+    "timeDay": 384,
+    "timeWeek": 437,
+    "timeMonth": 513,
+    "timeYear": 1093,
     "dailyMinutesDown": {
       "2024-07-22": 195,
       "2024-06-25": 22,
@@ -799,16 +799,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minted-https",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.58%",
-    "uptimeMonth": "99.62%",
+    "uptimeMonth": "99.67%",
     "uptimeYear": "99.81%",
     "time": 842,
-    "timeDay": 114,
-    "timeWeek": 3902,
-    "timeMonth": 1393,
-    "timeYear": 821,
+    "timeDay": 76,
+    "timeWeek": 3898,
+    "timeMonth": 1429,
+    "timeYear": 820,
     "dailyMinutesDown": {
       "2024-07-22": 143,
       "2024-06-25": 22,
