@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wedding-http",
     "status": "down",
-    "uptime": "57.14%",
+    "uptime": "57.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 204,
+    "time": 142,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-29": 75,
+      "2024-08-30": 76,
+      "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
       "2024-08-26": 1440,
@@ -379,8 +380,7 @@
       "2023-09-04": 1440,
       "2023-09-03": 1440,
       "2023-09-02": 1440,
-      "2023-09-01": 1440,
-      "2023-08-31": 1440
+      "2023-09-01": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wedding-https",
     "status": "down",
-    "uptime": "57.59%",
+    "uptime": "57.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-29": 76,
+      "2024-08-30": 76,
+      "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
       "2024-08-26": 1440,
@@ -763,8 +764,7 @@
       "2023-09-04": 1440,
       "2023-09-03": 1440,
       "2023-09-02": 1440,
-      "2023-09-01": 1440,
-      "2023-08-31": 1440
+      "2023-09-01": 1440
     }
   },
   {
@@ -779,10 +779,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.82%",
     "time": 1116,
-    "timeDay": 327,
-    "timeWeek": 397,
-    "timeMonth": 787,
-    "timeYear": 1062,
+    "timeDay": 356,
+    "timeWeek": 396,
+    "timeMonth": 786,
+    "timeYear": 1060,
     "dailyMinutesDown": {
       "2024-08-06": 25,
       "2024-07-22": 195,
@@ -806,10 +806,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.81%",
     "time": 801,
-    "timeDay": 106,
+    "timeDay": 100,
     "timeWeek": 131,
-    "timeMonth": 133,
-    "timeYear": 742,
+    "timeMonth": 134,
+    "timeYear": 741,
     "dailyMinutesDown": {
       "2024-08-06": 24,
       "2024-07-22": 143,
