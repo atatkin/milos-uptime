@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wedding-http",
     "status": "down",
-    "uptime": "52.60%",
+    "uptime": "52.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-09": 98,
+      "2024-12-10": 97,
+      "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
       "2024-12-06": 1440,
@@ -379,8 +380,7 @@
       "2023-12-15": 1440,
       "2023-12-14": 1440,
       "2023-12-13": 1440,
-      "2023-12-12": 1440,
-      "2023-12-11": 1440
+      "2023-12-12": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wedding-https",
     "status": "down",
-    "uptime": "53.01%",
+    "uptime": "52.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-09": 98,
+      "2024-12-10": 97,
+      "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
       "2024-12-06": 1440,
@@ -763,8 +764,7 @@
       "2023-12-15": 1440,
       "2023-12-14": 1440,
       "2023-12-13": 1440,
-      "2023-12-12": 1440,
-      "2023-12-11": 1440
+      "2023-12-12": 1440
     }
   },
   {
@@ -778,11 +778,11 @@
     "uptimeWeek": "99.55%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.74%",
-    "time": 1025,
-    "timeDay": 413,
-    "timeWeek": 487,
-    "timeMonth": 585,
-    "timeYear": 987,
+    "time": 1024,
+    "timeDay": 321,
+    "timeWeek": 483,
+    "timeMonth": 582,
+    "timeYear": 986,
     "dailyMinutesDown": {
       "2024-12-03": 45,
       "2024-09-06": 23,
@@ -809,11 +809,11 @@
     "uptimeWeek": "99.56%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.73%",
-    "time": 702,
+    "time": 701,
     "timeDay": 92,
-    "timeWeek": 2639,
-    "timeMonth": 832,
-    "timeYear": 689,
+    "timeWeek": 2636,
+    "timeMonth": 831,
+    "timeYear": 688,
     "dailyMinutesDown": {
       "2024-12-03": 44,
       "2024-09-05": 169,
