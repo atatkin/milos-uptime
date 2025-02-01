@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wedding-http",
     "status": "down",
-    "uptime": "50.51%",
+    "uptime": "50.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-31": 79,
+      "2025-02-01": 83,
+      "2025-01-31": 1440,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
@@ -379,8 +380,7 @@
       "2024-02-06": 1440,
       "2024-02-05": 1440,
       "2024-02-04": 1440,
-      "2024-02-03": 1440,
-      "2024-02-02": 1440
+      "2024-02-03": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wedding-https",
     "status": "down",
-    "uptime": "50.91%",
+    "uptime": "50.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-31": 79,
+      "2025-02-01": 83,
+      "2025-01-31": 1440,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
@@ -763,8 +764,7 @@
       "2024-02-06": 1440,
       "2024-02-05": 1440,
       "2024-02-04": 1440,
-      "2024-02-03": 1440,
-      "2024-02-02": 1440
+      "2024-02-03": 1440
     }
   },
   {
@@ -779,9 +779,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 961,
-    "timeDay": 319,
-    "timeWeek": 479,
-    "timeMonth": 546,
+    "timeDay": 816,
+    "timeWeek": 540,
+    "timeMonth": 539,
     "timeYear": 963,
     "dailyMinutesDown": {
       "2024-12-03": 45,
@@ -809,10 +809,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 614,
-    "timeDay": 71,
-    "timeWeek": 135,
-    "timeMonth": 128,
-    "timeYear": 637,
+    "timeDay": 187,
+    "timeWeek": 142,
+    "timeMonth": 125,
+    "timeYear": 636,
     "dailyMinutesDown": {
       "2024-12-03": 44,
       "2024-09-05": 169,
