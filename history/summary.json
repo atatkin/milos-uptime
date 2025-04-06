@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wedding-http",
     "status": "down",
-    "uptime": "48.20%",
+    "uptime": "48.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-05": 86,
+      "2025-04-06": 100,
+      "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
@@ -379,8 +380,7 @@
       "2024-04-10": 1440,
       "2024-04-09": 1440,
       "2024-04-08": 1440,
-      "2024-04-07": 1440,
-      "2024-04-06": 1440
+      "2024-04-07": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wedding-https",
     "status": "down",
-    "uptime": "48.59%",
+    "uptime": "48.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-05": 86,
+      "2025-04-06": 100,
+      "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
@@ -763,8 +764,7 @@
       "2024-04-10": 1440,
       "2024-04-09": 1440,
       "2024-04-08": 1440,
-      "2024-04-07": 1440,
-      "2024-04-06": 1440
+      "2024-04-07": 1440
     }
   },
   {
@@ -779,9 +779,9 @@
     "uptimeMonth": "99.43%",
     "uptimeYear": "99.77%",
     "time": 873,
-    "timeDay": 374,
-    "timeWeek": 555,
-    "timeMonth": 471,
+    "timeDay": 832,
+    "timeWeek": 618,
+    "timeMonth": 485,
     "timeYear": 933,
     "dailyMinutesDown": {
       "2025-03-14": 41,
@@ -810,11 +810,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.43%",
     "uptimeYear": "99.76%",
-    "time": 566,
-    "timeDay": 112,
-    "timeWeek": 136,
-    "timeMonth": 116,
-    "timeYear": 579,
+    "time": 565,
+    "timeDay": 162,
+    "timeWeek": 151,
+    "timeMonth": 117,
+    "timeYear": 578,
     "dailyMinutesDown": {
       "2025-03-14": 40,
       "2025-03-12": 209,
