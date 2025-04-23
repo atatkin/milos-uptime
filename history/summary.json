@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wedding-http",
     "status": "down",
-    "uptime": "47.63%",
+    "uptime": "47.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-22": 97,
+      "2025-04-23": 98,
+      "2025-04-22": 1440,
       "2025-04-21": 1440,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
@@ -379,8 +380,7 @@
       "2024-04-27": 1440,
       "2024-04-26": 1440,
       "2024-04-25": 1440,
-      "2024-04-24": 1440,
-      "2024-04-23": 1440
+      "2024-04-24": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wedding-https",
     "status": "down",
-    "uptime": "48.00%",
+    "uptime": "47.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-22": 98,
+      "2025-04-23": 98,
+      "2025-04-22": 1440,
       "2025-04-21": 1440,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
@@ -763,8 +764,7 @@
       "2024-04-27": 1440,
       "2024-04-26": 1440,
       "2024-04-25": 1440,
-      "2024-04-24": 1440,
-      "2024-04-23": 1440
+      "2024-04-24": 1440
     }
   },
   {
@@ -778,10 +778,10 @@
     "uptimeWeek": "99.35%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.75%",
-    "time": 861,
-    "timeDay": 359,
-    "timeWeek": 494,
-    "timeMonth": 506,
+    "time": 860,
+    "timeDay": 487,
+    "timeWeek": 471,
+    "timeMonth": 501,
     "timeYear": 908,
     "dailyMinutesDown": {
       "2025-04-18": 31,
@@ -812,11 +812,11 @@
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.75%",
-    "time": 551,
-    "timeDay": 100,
-    "timeWeek": 129,
-    "timeMonth": 133,
-    "timeYear": 557,
+    "time": 550,
+    "timeDay": 82,
+    "timeWeek": 117,
+    "timeMonth": 128,
+    "timeYear": 556,
     "dailyMinutesDown": {
       "2025-04-18": 31,
       "2025-03-14": 40,
