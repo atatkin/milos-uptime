@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wedding-http",
     "status": "down",
-    "uptime": "44.28%",
+    "uptime": "44.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-07": 116,
+      "2025-08-08": 115,
+      "2025-08-07": 1440,
       "2025-08-06": 1440,
       "2025-08-05": 1440,
       "2025-08-04": 1440,
@@ -379,8 +380,7 @@
       "2024-08-12": 1440,
       "2024-08-11": 1440,
       "2024-08-10": 1440,
-      "2024-08-09": 1440,
-      "2024-08-08": 1440
+      "2024-08-09": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wedding-https",
     "status": "down",
-    "uptime": "44.64%",
+    "uptime": "44.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-07": 116,
+      "2025-08-08": 115,
+      "2025-08-07": 1440,
       "2025-08-06": 1440,
       "2025-08-05": 1440,
       "2025-08-04": 1440,
@@ -763,8 +764,7 @@
       "2024-08-12": 1440,
       "2024-08-11": 1440,
       "2024-08-10": 1440,
-      "2024-08-09": 1440,
-      "2024-08-08": 1440
+      "2024-08-09": 1440
     }
   },
   {
@@ -779,10 +779,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 696,
-    "timeDay": 735,
-    "timeWeek": 617,
-    "timeMonth": 544,
-    "timeYear": 608,
+    "timeDay": 628,
+    "timeWeek": 648,
+    "timeMonth": 542,
+    "timeYear": 609,
     "dailyMinutesDown": {
       "2025-07-01": 19,
       "2025-05-21": 31,
@@ -808,10 +808,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 408,
-    "timeDay": 195,
-    "timeWeek": 167,
-    "timeMonth": 149,
-    "timeYear": 208,
+    "timeDay": 135,
+    "timeWeek": 171,
+    "timeMonth": 147,
+    "timeYear": 207,
     "dailyMinutesDown": {
       "2025-07-01": 19,
       "2025-05-21": 31,
