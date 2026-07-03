@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-02": 1210,
+      "2026-07-03": 202,
+      "2026-07-02": 1440,
       "2026-07-01": 1440,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
@@ -379,8 +380,7 @@
       "2025-07-07": 1440,
       "2025-07-06": 1440,
       "2025-07-05": 1440,
-      "2025-07-04": 1440,
-      "2025-07-03": 1440
+      "2025-07-04": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wedding-https",
     "status": "down",
-    "uptime": "36.70%",
+    "uptime": "36.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-02": 1210,
+      "2026-07-03": 202,
+      "2026-07-02": 1440,
       "2026-07-01": 1440,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
@@ -763,8 +764,7 @@
       "2025-07-07": 1440,
       "2025-07-06": 1440,
       "2025-07-05": 1440,
-      "2025-07-04": 1440,
-      "2025-07-03": 1440
+      "2025-07-04": 1440
     }
   },
   {
@@ -773,15 +773,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minted-http",
     "status": "down",
-    "uptime": "97.17%",
-    "uptimeDay": "12.43%",
-    "uptimeWeek": "17.85%",
-    "uptimeMonth": "12.94%",
-    "uptimeYear": "92.68%",
+    "uptime": "97.16%",
+    "uptimeDay": "6.04%",
+    "uptimeWeek": "17.79%",
+    "uptimeMonth": "12.30%",
+    "uptimeYear": "92.60%",
     "time": 529,
-    "timeDay": 235,
-    "timeWeek": 277,
-    "timeMonth": 278,
+    "timeDay": 239,
+    "timeWeek": 266,
+    "timeMonth": 277,
     "timeYear": 533,
     "dailyMinutesDown": {
       "2025-09-22": 27,
@@ -818,7 +818,8 @@
       "2026-06-29": 998,
       "2026-06-30": 715,
       "2026-07-01": 1007,
-      "2026-07-02": 1106
+      "2026-07-02": 1336,
+      "2026-07-03": 202
     }
   },
   {
@@ -827,15 +828,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minted-https",
     "status": "down",
-    "uptime": "98.32%",
-    "uptimeDay": "34.43%",
-    "uptimeWeek": "11.27%",
-    "uptimeMonth": "8.39%",
-    "uptimeYear": "92.30%",
+    "uptime": "98.31%",
+    "uptimeDay": "11.20%",
+    "uptimeWeek": "10.42%",
+    "uptimeMonth": "8.16%",
+    "uptimeYear": "92.21%",
     "time": 184,
-    "timeDay": 245,
-    "timeWeek": 238,
-    "timeMonth": 269,
+    "timeDay": 227,
+    "timeWeek": 233,
+    "timeMonth": 266,
     "timeYear": 207,
     "dailyMinutesDown": {
       "2026-02-14": 23,
@@ -873,7 +874,8 @@
       "2026-06-30": 1208,
       "2026-06-29": 1440,
       "2026-07-01": 1187,
-      "2026-07-02": 846
+      "2026-07-02": 1076,
+      "2026-07-03": 203
     }
   }
 ]
