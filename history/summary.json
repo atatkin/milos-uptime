@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-09": 5,
+      "2026-07-09": 77,
       "2026-07-08": 1440,
       "2026-07-07": 1440,
       "2026-07-06": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-09": 6,
+      "2026-07-09": 77,
       "2026-07-08": 1440,
       "2026-07-07": 1440,
       "2026-07-06": 1440,
@@ -772,17 +772,17 @@
     "url": "$MINTEDHTTP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minted-http",
-    "status": "up",
+    "status": "down",
     "uptime": "96.92%",
-    "uptimeDay": "13.93%",
-    "uptimeWeek": "17.07%",
-    "uptimeMonth": "13.73%",
+    "uptimeDay": "18.89%",
+    "uptimeWeek": "17.64%",
+    "uptimeMonth": "13.89%",
     "uptimeYear": "91.30%",
-    "time": 519,
-    "timeDay": 303,
-    "timeWeek": 291,
-    "timeMonth": 285,
-    "timeYear": 519,
+    "time": 518,
+    "timeDay": 266,
+    "timeWeek": 292,
+    "timeMonth": 283,
+    "timeYear": 518,
     "dailyMinutesDown": {
       "2025-09-22": 27,
       "2026-04-08": 67,
@@ -836,9 +836,9 @@
     "status": "down",
     "uptime": "98.06%",
     "uptimeDay": "20.51%",
-    "uptimeWeek": "17.14%",
+    "uptimeWeek": "16.43%",
     "uptimeMonth": "8.98%",
-    "uptimeYear": "90.87%",
+    "uptimeYear": "90.85%",
     "time": 187,
     "timeDay": 236,
     "timeWeek": 230,
@@ -887,7 +887,7 @@
       "2026-07-06": 991,
       "2026-07-07": 1370,
       "2026-07-08": 1144,
-      "2026-07-09": 6
+      "2026-07-09": 77
     }
   }
 ]
