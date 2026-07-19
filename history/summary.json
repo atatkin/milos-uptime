@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-19": 168,
+      "2026-07-19": 648,
       "2026-07-18": 1440,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wedding-https",
     "status": "down",
-    "uptime": "36.38%",
+    "uptime": "36.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-19": 169,
+      "2026-07-19": 648,
       "2026-07-18": 1440,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
@@ -772,16 +772,16 @@
     "url": "$MINTEDHTTP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minted-http",
-    "status": "down",
-    "uptime": "96.48%",
-    "uptimeDay": "12.37%",
-    "uptimeWeek": "12.81%",
+    "status": "up",
+    "uptime": "96.47%",
+    "uptimeDay": "12.40%",
+    "uptimeWeek": "12.82%",
     "uptimeMonth": "14.77%",
-    "uptimeYear": "88.84%",
+    "uptimeYear": "88.75%",
     "time": 505,
-    "timeDay": 244,
-    "timeWeek": 307,
-    "timeMonth": 289,
+    "timeDay": 303,
+    "timeWeek": 312,
+    "timeMonth": 290,
     "timeYear": 499,
     "dailyMinutesDown": {
       "2025-09-22": 27,
@@ -835,7 +835,7 @@
       "2026-07-16": 1284,
       "2026-07-17": 1329,
       "2026-07-18": 1261,
-      "2026-07-19": 169
+      "2026-07-19": 648
     }
   },
   {
@@ -844,11 +844,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minted-https",
     "status": "down",
-    "uptime": "97.66%",
+    "uptime": "97.64%",
     "uptimeDay": "5.17%",
     "uptimeWeek": "21.46%",
     "uptimeMonth": "13.36%",
-    "uptimeYear": "88.62%",
+    "uptimeYear": "88.53%",
     "time": 195,
     "timeDay": 301,
     "timeWeek": 272,
@@ -907,7 +907,7 @@
       "2026-07-17": 1205,
       "2026-07-16": 1440,
       "2026-07-18": 1366,
-      "2026-07-19": 169
+      "2026-07-19": 648
     }
   }
 ]
