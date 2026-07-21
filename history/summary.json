@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wedding-http",
     "status": "down",
-    "uptime": "36.05%",
+    "uptime": "36.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-21": 913,
+      "2026-07-21": 1083,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-21": 914,
+      "2026-07-21": 1083,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
@@ -772,16 +772,16 @@
     "url": "$MINTEDHTTP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minted-http",
-    "status": "down",
-    "uptime": "96.37%",
-    "uptimeDay": "9.14%",
-    "uptimeWeek": "12.13%",
+    "status": "up",
+    "uptime": "96.36%",
+    "uptimeDay": "9.16%",
+    "uptimeWeek": "11.32%",
     "uptimeMonth": "14.31%",
-    "uptimeYear": "88.20%",
+    "uptimeYear": "88.17%",
     "time": 502,
-    "timeDay": 262,
-    "timeWeek": 317,
-    "timeMonth": 289,
+    "timeDay": 293,
+    "timeWeek": 319,
+    "timeMonth": 290,
     "timeYear": 494,
     "dailyMinutesDown": {
       "2025-09-22": 27,
@@ -836,7 +836,7 @@
       "2026-07-17": 1329,
       "2026-07-18": 1261,
       "2026-07-19": 1310,
-      "2026-07-21": 782,
+      "2026-07-21": 951,
       "2026-07-20": 1440
     }
   },
@@ -845,15 +845,15 @@
     "url": "$MINTEDHTTPS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minted-https",
-    "status": "down",
+    "status": "up",
     "uptime": "97.54%",
-    "uptimeDay": "15.58%",
-    "uptimeWeek": "14.68%",
+    "uptimeDay": "15.59%",
+    "uptimeWeek": "13.86%",
     "uptimeMonth": "13.99%",
-    "uptimeYear": "87.98%",
+    "uptimeYear": "87.95%",
     "time": 198,
-    "timeDay": 344,
-    "timeWeek": 292,
+    "timeDay": 326,
+    "timeWeek": 289,
     "timeMonth": 252,
     "timeYear": 217,
     "dailyMinutesDown": {
@@ -911,7 +911,7 @@
       "2026-07-18": 1366,
       "2026-07-19": 1385,
       "2026-07-20": 1379,
-      "2026-07-21": 750
+      "2026-07-21": 919
     }
   }
 ]
