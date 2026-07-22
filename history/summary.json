@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-22": 895,
+      "2026-07-22": 1066,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-22": 895,
+      "2026-07-22": 1066,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
@@ -772,16 +772,16 @@
     "url": "$MINTEDHTTP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minted-http",
-    "status": "down",
+    "status": "up",
     "uptime": "96.34%",
-    "uptimeDay": "33.07%",
+    "uptimeDay": "31.81%",
     "uptimeWeek": "12.16%",
-    "uptimeMonth": "15.35%",
-    "uptimeYear": "88.02%",
+    "uptimeMonth": "15.36%",
+    "uptimeYear": "87.99%",
     "time": 500,
-    "timeDay": 296,
-    "timeWeek": 336,
-    "timeMonth": 290,
+    "timeDay": 352,
+    "timeWeek": 344,
+    "timeMonth": 292,
     "timeYear": 493,
     "dailyMinutesDown": {
       "2025-09-22": 27,
@@ -838,7 +838,7 @@
       "2026-07-19": 1310,
       "2026-07-21": 1197,
       "2026-07-20": 1440,
-      "2026-07-22": 548
+      "2026-07-22": 719
     }
   },
   {
@@ -846,16 +846,16 @@
     "url": "$MINTEDHTTPS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minted-https",
-    "status": "down",
-    "uptime": "97.51%",
-    "uptimeDay": "28.21%",
-    "uptimeWeek": "12.07%",
+    "status": "up",
+    "uptime": "97.50%",
+    "uptimeDay": "28.22%",
+    "uptimeWeek": "11.60%",
     "uptimeMonth": "14.92%",
-    "uptimeYear": "87.79%",
-    "time": 200,
-    "timeDay": 279,
-    "timeWeek": 288,
-    "timeMonth": 252,
+    "uptimeYear": "87.76%",
+    "time": 201,
+    "timeDay": 298,
+    "timeWeek": 300,
+    "timeMonth": 254,
     "timeYear": 218,
     "dailyMinutesDown": {
       "2026-02-14": 23,
@@ -913,7 +913,7 @@
       "2026-07-19": 1385,
       "2026-07-20": 1379,
       "2026-07-21": 1038,
-      "2026-07-22": 727
+      "2026-07-22": 898
     }
   }
 ]
