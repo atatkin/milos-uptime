@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-22": 543,
+      "2026-07-22": 770,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wedding-https",
     "status": "down",
-    "uptime": "36.32%",
+    "uptime": "36.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-22": 544,
+      "2026-07-22": 771,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
@@ -772,17 +772,17 @@
     "url": "$MINTEDHTTP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minted-http",
-    "status": "down",
-    "uptime": "96.35%",
-    "uptimeDay": "32.31%",
-    "uptimeWeek": "11.87%",
+    "status": "up",
+    "uptime": "96.34%",
+    "uptimeDay": "32.33%",
+    "uptimeWeek": "10.93%",
     "uptimeMonth": "15.07%",
-    "uptimeYear": "88.06%",
-    "time": 501,
-    "timeDay": 283,
-    "timeWeek": 328,
-    "timeMonth": 290,
-    "timeYear": 494,
+    "uptimeYear": "88.02%",
+    "time": 500,
+    "timeDay": 273,
+    "timeWeek": 335,
+    "timeMonth": 289,
+    "timeYear": 493,
     "dailyMinutesDown": {
       "2025-09-22": 27,
       "2026-04-08": 67,
@@ -838,7 +838,7 @@
       "2026-07-19": 1310,
       "2026-07-21": 1197,
       "2026-07-20": 1440,
-      "2026-07-22": 322
+      "2026-07-22": 548
     }
   },
   {
@@ -847,11 +847,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minted-https",
     "status": "down",
-    "uptime": "97.52%",
+    "uptime": "97.51%",
     "uptimeDay": "28.21%",
-    "uptimeWeek": "15.06%",
+    "uptimeWeek": "12.81%",
     "uptimeMonth": "14.92%",
-    "uptimeYear": "87.85%",
+    "uptimeYear": "87.81%",
     "time": 200,
     "timeDay": 279,
     "timeWeek": 285,
@@ -913,7 +913,7 @@
       "2026-07-19": 1385,
       "2026-07-20": 1379,
       "2026-07-21": 1038,
-      "2026-07-22": 376
+      "2026-07-22": 603
     }
   }
 ]
