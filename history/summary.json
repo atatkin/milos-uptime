@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wedding-http",
     "status": "down",
-    "uptime": "35.56%",
+    "uptime": "35.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-16": 80,
+      "2026-08-16": 1150,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wedding-https",
     "status": "down",
-    "uptime": "35.85%",
+    "uptime": "35.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-16": 80,
+      "2026-08-16": 1150,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
@@ -772,16 +772,16 @@
     "url": "$MINTEDHTTP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minted-http",
-    "status": "down",
-    "uptime": "96.37%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "4.04%",
-    "uptimeMonth": "3.65%",
-    "uptimeYear": "81.57%",
+    "status": "up",
+    "uptime": "96.34%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "4.05%",
+    "uptimeMonth": "3.29%",
+    "uptimeYear": "81.36%",
     "time": 487,
-    "timeDay": 64,
-    "timeWeek": 217,
-    "timeMonth": 351,
+    "timeDay": 137,
+    "timeWeek": 216,
+    "timeMonth": 349,
     "timeYear": 477,
     "dailyMinutesDown": {
       "2025-09-22": 27,
@@ -861,7 +861,7 @@
       "2026-08-11": 1329,
       "2026-08-12": 1315,
       "2026-08-13": 1383,
-      "2026-08-16": 80,
+      "2026-08-16": 1150,
       "2026-08-15": 1440,
       "2026-08-14": 1440
     }
@@ -872,11 +872,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minted-https",
     "status": "down",
-    "uptime": "96.32%",
+    "uptime": "96.28%",
     "uptimeDay": "0.38%",
     "uptimeWeek": "2.77%",
     "uptimeMonth": "3.20%",
-    "uptimeYear": "81.33%",
+    "uptimeYear": "81.13%",
     "time": 210,
     "timeDay": 212,
     "timeWeek": 217,
@@ -963,7 +963,7 @@
       "2026-08-13": 1382,
       "2026-08-15": 1434,
       "2026-08-14": 1440,
-      "2026-08-16": 80
+      "2026-08-16": 1150
     }
   }
 ]
