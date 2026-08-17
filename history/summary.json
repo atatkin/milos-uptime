@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-17": 169,
+      "2026-08-17": 828,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wedding-https",
     "status": "down",
-    "uptime": "35.83%",
+    "uptime": "35.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-17": 170,
+      "2026-08-17": 828,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
@@ -772,17 +772,17 @@
     "url": "$MINTEDHTTP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minted-http",
-    "status": "down",
-    "uptime": "96.34%",
-    "uptimeDay": "1.69%",
-    "uptimeWeek": "4.28%",
+    "status": "up",
+    "uptime": "96.32%",
+    "uptimeDay": "1.73%",
+    "uptimeWeek": "4.29%",
     "uptimeMonth": "3.35%",
-    "uptimeYear": "81.28%",
+    "uptimeYear": "81.15%",
     "time": 487,
-    "timeDay": 335,
+    "timeDay": 312,
     "timeWeek": 240,
-    "timeMonth": 349,
-    "timeYear": 477,
+    "timeMonth": 348,
+    "timeYear": 476,
     "dailyMinutesDown": {
       "2025-09-22": 27,
       "2026-04-08": 67,
@@ -864,7 +864,7 @@
       "2026-08-16": 1416,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
-      "2026-08-17": 170
+      "2026-08-17": 827
     }
   },
   {
@@ -873,15 +873,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minted-https",
     "status": "down",
-    "uptime": "96.27%",
+    "uptime": "96.25%",
     "uptimeDay": "4.23%",
-    "uptimeWeek": "3.38%",
-    "uptimeMonth": "3.34%",
-    "uptimeYear": "81.05%",
+    "uptimeWeek": "2.65%",
+    "uptimeMonth": "3.02%",
+    "uptimeYear": "80.93%",
     "time": 211,
     "timeDay": 267,
-    "timeWeek": 233,
-    "timeMonth": 267,
+    "timeWeek": 241,
+    "timeMonth": 262,
     "timeYear": 226,
     "dailyMinutesDown": {
       "2026-02-14": 23,
@@ -964,7 +964,7 @@
       "2026-08-13": 1382,
       "2026-08-15": 1434,
       "2026-08-14": 1440,
-      "2026-08-17": 108,
+      "2026-08-17": 767,
       "2026-08-16": 1440
     }
   }
